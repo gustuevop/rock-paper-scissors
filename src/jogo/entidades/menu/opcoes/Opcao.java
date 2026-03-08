@@ -8,7 +8,6 @@ import jogo.entidades.Jogador;
 public abstract class Opcao {
 	
 	private final String nome;
-	protected static final Scanner scanner = new Scanner(System.in);
 
     protected Opcao(String nome) {
         this.nome = nome;

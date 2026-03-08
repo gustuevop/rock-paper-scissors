@@ -1,4 +1,4 @@
-package jogo.entidades.menu;
+package jogo.entidades;
 
 public enum Resultado {
 	GANHOU,
